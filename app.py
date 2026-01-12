@@ -2,7 +2,7 @@ from flask import Flask, render_template, redirect
 
 app = Flask(__name__)
 
-link = "https://wa.me/2348162043451"
+link = "https://www.w3school.com"
 
 @app.route("/")
 def lativectors():
