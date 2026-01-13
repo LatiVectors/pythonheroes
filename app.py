@@ -2,7 +2,7 @@ from flask import Flask, render_template, redirect
 
 app = Flask(__name__)
 
-link = "https://t.me/lativectors" # "https://chat.whatsapp.com/EQu4kboRskrGVgSIkZsCLp"
+link = "https://chat.whatsapp.com/EQu4kboRskrGVgSIkZsCLp"
 
 @app.route("/")
 def lativectors():
